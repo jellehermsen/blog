@@ -207,8 +207,13 @@ article a.readmore {
         font-size: 18px;
         border-bottom: none;
     }
+
     article section {
         padding: 10px;
+    }
+
+    article img {
+        max-width: 100%
     }
 
     footer div.copyright {
