@@ -197,6 +197,11 @@ article a.readmore {
     clear: both;
 }
 
+article img {
+    float: left;
+    margin-right: 5px;
+}
+
 /* --- Mobile -- */
 @media screen and (max-width: 700px) {
     a.rss {
@@ -213,7 +218,8 @@ article a.readmore {
     }
 
     article img {
-        max-width: 100%
+        max-width: 100%;
+        float: none;
     }
 
     footer div.copyright {
