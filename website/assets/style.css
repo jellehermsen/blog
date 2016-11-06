@@ -5,7 +5,7 @@ html, body {
     padding: 0px;
     text-align: center;
     color: #777;
-    background-color: #EEE;
+    background-color: #3f153a;
 }
 
 a {
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 main {
    position: relative;
    margin: 0 auto;
-   width: 700px;
+   width: 800px;
    text-align: left;
    padding-bottom: 30px;
 }
@@ -40,14 +40,7 @@ header {
     padding: 0px 10px 0px 10px;
     border-bottom: solid 1px #CCC;
     text-align: center;
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#55ff55+0,ffff55+50,ff5555+92 */
-    background: #55ff55; /* Old browsers */
-    background: -moz-linear-gradient(left, #55ff55 0%, #ffff55 50%, #ff5555 92%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, right top, color-stop(0%,#55ff55), color-stop(50%,#ffff55), color-stop(92%,#ff5555)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(left, #55ff55 0%,#ffff55 50%,#ff5555 92%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(left, #55ff55 0%,#ffff55 50%,#ff5555 92%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(left, #55ff55 0%,#ffff55 50%,#ff5555 92%); /* IE10+ */
-    background: linear-gradient(to right, #55ff55 0%,#ffff55 50%,#ff5555 92%); /* W3C */
+    background: #222;
 }
 
 header h1 {
@@ -56,6 +49,7 @@ header h1 {
     margin: 0px 10px 0px 0px;
     padding: 0px;
     font-weight: normal;
+    color: #FFF;
 }
 
 header a.rss {
@@ -64,12 +58,12 @@ header a.rss {
     margin: 0px;
     padding: 0px;
     border-bottom: none;
-    color: #333;
+    color: #fff;
 }
 
 header h1 a {
     border-bottom: none;
-    color: #333;
+    color: #FFF;
 }
 
 /* --- Footer --- */
@@ -106,6 +100,7 @@ nav li {
 nav li a {
     font-size: 24px;
     border-bottom: none;
+    color: #FFF;
 }
 
 /* --- Article --- */
@@ -114,7 +109,7 @@ article {
     border: solid 1px #CCC;
     margin: 30px auto;
     text-align: left;
-    max-width: 600px;
+    max-width: 700px;
 }
 
 article h1:first-child {
@@ -132,7 +127,7 @@ article header {
 }
 
 article header, article footer {
-    background: #55ff55;
+    background: #222;
 }
 
 article header h1 {
@@ -168,18 +163,18 @@ article footer li {
 }
 
 article footer li a {
-    color: #000;
+    color: #FFF;
 }
 
 article span.filed {
-    color: #000;
+    color: #FFF;
 }
 
 article header time {
     float: right;
     display: block;
     line-height: 40px;
-    color: #000;
+    color: #FFF;
 }
 
 article.categories ul, article.archive ul {
@@ -199,8 +194,18 @@ article a.readmore {
 }
 
 article img {
-    float: left;
-    margin-right: 5px;
+    clear: both;
+    margin-bottom: 10px;
+}
+
+article code {
+    display: block;
+    width: 100%;
+    font-size: 14px;
+    padding: 3px;
+    background-color: #333;
+    color: #EEE;
+    overflow: scroll;
 }
 
 /* --- Mobile -- */
@@ -212,6 +217,10 @@ article img {
     nav li a {
         font-size: 18px;
         border-bottom: none;
+    }
+
+    article {
+        border: none;
     }
 
     article section {
