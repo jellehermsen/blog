@@ -196,12 +196,14 @@ article a.readmore {
 article img {
     clear: both;
     margin-bottom: 10px;
+    max-width: 100%;
+    height: auto;
 }
 
 article code {
     display: block;
     width: 100%;
-    font-size: 14px;
+    font-size: 12px;
     padding: 3px;
     background-color: #333;
     color: #EEE;
@@ -209,7 +211,7 @@ article code {
 }
 
 /* --- Mobile -- */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
     a.rss {
         display: none;
     }
