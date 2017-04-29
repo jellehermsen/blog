@@ -1,2 +1,8 @@
 website/
 test.sh
+
+# Temporary/OS files
+*.swp
+*.swo
+*.*~
+.~lock.*
