@@ -6,7 +6,7 @@ posts_on_home = 10
 convert = pandoc -f markdown -w html -o {out} {in}
 
 # The url of the website
-url = http://jelle.xyz/
+url = https://jelle.xyz/
 
 # The title of the website (used in the RSS)
 title = Jelle's blog

@@ -7,7 +7,7 @@ FLOSS enthusiast from the Netherlands. During the day I work at
 poetry, code on various projects, watch 80s comedies and read fantasy / sci-fi
 books.
 
-![](/assets/jelle.jpg)
+![Jelle's avatar](/assets/jelle.png)
 
 My fav OS is GNU/Linux, my editor of choice is VIM, my desktop runs Xmonad and
 I'm really into functional programming (especially Haskell). I'm queer and drink

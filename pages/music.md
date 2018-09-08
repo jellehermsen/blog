@@ -27,23 +27,3 @@ featured on the Software Freedom Day cd that year.
 
 Electronics are all nice and dandy, but recently I mostly play blues piano. I
 might make some reordings at some point, but don't hold your breath :-).
-
-
-Mood of the leopard
--------------------
-
-<iframe width="100%" height="600" scrolling="no" frameborder="no"
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/695958&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-Fast Tracker II songs
----------------------
-
-<iframe width="300" height="90"
-src="//media.myspace.com/play/song/movement-41428092-44039741" frameborder="0"
-allowtransparency="true" webkitallowfullscreen mozallowfullscreen
-allowfullscreen></iframe>
-
-<iframe width="300" height="90"
-src="//media.myspace.com/play/song/apocalypse-50739769-54683590" frameborder="0"
-allowtransparency="true" webkitallowfullscreen mozallowfullscreen
-allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 <!--
 title: Raspberry Pi 2 as my main desktop
-categories: random geekery
+categories: random_geekery
 --> 
 A couple of weeks ago I started using a Raspberry Pi 2 as my main desktop. It
 was an experiment, suggested by some folks on the #aardvark channel at
@@ -10,7 +10,7 @@ increasing  my productivity by using lighter apps at the same time.  In this
 blog post I will describe my current hardware and software setup and give some
 tips on overclocking this single board computer.
 
-![]({base_url}assets/pi.jpg)
+![Photo of my rpi setup]({base_url}assets/pi.jpg)
 
 Hardware
 --------
