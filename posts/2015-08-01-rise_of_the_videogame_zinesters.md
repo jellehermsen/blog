@@ -11,7 +11,7 @@ this one is something completely different. No programmer semi-gods this time
 beings making games, everybody, not just the prototypical hetero cis men who
 have dominated gamer culture for so long.
 
-![Book cover of Rise of the videogame zinesters]({base_url}assets/riseofthevideogamezinesters.png) 
+![The Book cover of Rise of the videogame zinesters]({base_url}assets/riseofthevideogamezinesters.png) 
 
 Anthropy paints a bright picture in which games are created like ezines. She
 makes a very good point about video games needing more diverse personal voices

@@ -10,7 +10,7 @@ increasing  my productivity by using lighter apps at the same time.  In this
 blog post I will describe my current hardware and software setup and give some
 tips on overclocking this single board computer.
 
-![Photo of my rpi setup]({base_url}assets/pi.jpg)
+![My Raspberry Pi setup]({base_url}assets/pi.jpg)
 
 Hardware
 --------
