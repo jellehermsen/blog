@@ -10,8 +10,6 @@ increasing  my productivity by using lighter apps at the same time.  In this
 blog post I will describe my current hardware and software setup and give some
 tips on overclocking this single board computer.
 
-![My Raspberry Pi setup]({base_url}assets/pi.jpg)
-
 Hardware
 --------
 The Rpi 2 is a neat little board with 1GB of Ram and a 900MHz quad core ARM

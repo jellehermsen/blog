@@ -1,2 +1,2 @@
 #!/bin/sh
-hasclunk build-test
+make build-test

@@ -7,8 +7,6 @@ Zinesters](http://auntiepixelante.com/?p=1583) by Anna Anthropy and while I was
 looking at the games she made I found this little puzzle gem in her list:
 [Herding Cats](http://www.puzzlescript.net/play.html?p=0ce1a363836151b78be0).
 
-![Herding cats screenshot]({base_url}assets/herding_cats.png)
-
 Herding Cats is a top down puzzler in the style of Sokoban/Paganitzu/Adventures
 of Lolo with a very neat twist. Instead of pushing boxes around and blocking
 baddies, you have to herd cats. The mechanic is as simple as it is tricky,
