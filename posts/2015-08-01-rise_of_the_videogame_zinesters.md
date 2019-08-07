@@ -1,6 +1,6 @@
 <!--
 title: Rise of the videogame zinesters
-categories: gamedev
+categories: gamedev, english
 --> 
 Last week I read Anna Anthropy's
 [Rise of the videogame zinesters](http://www.indiebound.org/book/9781609803728)

@@ -1,6 +1,6 @@
 <!--
 title: Join our network
-categories: poems
+categories: poems, english
 -->
 **Join our network**
 

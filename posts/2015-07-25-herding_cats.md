@@ -1,6 +1,6 @@
 <!--
 title: Herding Cats
-categories: games
+categories: games, english
 -->
 I have just started reading [Rise of the Videogame
 Zinesters](http://auntiepixelante.com/?p=1583) by Anna Anthropy and while I was

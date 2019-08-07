@@ -1,5 +1,11 @@
 website/
 test.sh
+config
+
+# Build/test/deploy files
+p.sh
+r.sh
+deploy.sh
 
 # Temporary/OS files
 *.swp

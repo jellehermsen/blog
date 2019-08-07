@@ -1,6 +1,6 @@
 <!--
 title: Undesigned my blog
-categories: general
+categories: general, english
 -->
 I recently read [this blog
 post](http://rickcarlino.com/2018/07/11/fabulous-text-only-websites-2018-edition-html.html)

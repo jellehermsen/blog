@@ -1,6 +1,6 @@
 <!--
 title: Raspberry Pi 2 as my main desktop
-categories: random_geekery
+categories: random_geekery, english
 --> 
 A couple of weeks ago I started using a Raspberry Pi 2 as my main desktop. It
 was an experiment, suggested by some folks on the #aardvark channel at
