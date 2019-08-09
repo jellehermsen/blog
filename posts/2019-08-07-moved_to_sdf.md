@@ -1,5 +1,5 @@
 <!--
-title: Blog moved to SDF
+title: Moved this blog to SDF
 categories: general, english
 -->
 I have moved my weblog to the MetaArray at [SDF](https://sdf.org). I will be
