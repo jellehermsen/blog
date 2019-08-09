@@ -2,7 +2,7 @@
 title: Zaken doen met vrije software
 categories: nederlands, free_software
 -->
-*Dit stuk verscheen in 2013 in Linux Magazine*
+*Dit stuk verscheen in 2013 in Linux Magazine. Je kunt de PDF [hier downloaden](https://jelle.xyz/linuxmagazine/zaken-doen-met-vrije-software.pdf).*
 
 **Alhoewel vrije software meestal gratis verspreid wordt, kun je er prima geld mee verdienen. En in tegenstelling tot bedrijven als Red Hat hoef je ook geen miljoenenomzet te draaien om hier een levensvatbaar businessmodel van te maken.**
 
