@@ -13,6 +13,3 @@ In the next couple of months I want to move all my old blog posts to this
 place. There's some old weblogs floating about, and some archives I have backed
 up, and I want to bring that all here. After all that I might write about the
 stuff I'm doing these days and whatever sparks my interests.
-
-Ps: SSL is not yet working. I hope that it will soon, but I'm dependent on the
-generosity of the MetaArray's admins to fix my virtual host.
