@@ -6,9 +6,7 @@ bunch of bands of various disquality (shout out to the other guys from "Band
 zonder talent" :-).
 
 You can listen to my EP "Mood of the leopard" on
-[Jamendo](https://www.jamendo.com/album/60375/mood-of-the-leopard) where it has
-ammassed more than 160k listens at the time of writing (not sure how that
-happened). 
+[Jamendo](https://www.jamendo.com/album/60375/mood-of-the-leopard).
 
 I have also created an EP ["Exhumed but not
 dead"](https://www.jamendo.com/album/168049/exhumed-but-not-dead) featuring
