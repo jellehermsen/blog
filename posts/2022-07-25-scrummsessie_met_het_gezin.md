@@ -1,5 +1,5 @@
 <!--
-title: Scrummsessie met het gezien
+title: Scrummsessie met het gezin
 categories: nederlands, poems
 -->
 Schatje, je kamer is een zooitje.\
